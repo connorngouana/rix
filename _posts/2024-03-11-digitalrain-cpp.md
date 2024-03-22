@@ -1,9 +1,3 @@
----
-layout: post
-title: A Project in Modern C++
-tags: cpp coding project
-categories: demo
----
 
 ![image](https://github.com/connorngouana/rix/assets/115573354/69234e0e-4ac3-4067-8e1c-5938c49e1b95)
 
