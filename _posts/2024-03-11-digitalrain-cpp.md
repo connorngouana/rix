@@ -1,13 +1,13 @@
 ![image](https://github.com/connorngouana/rix/assets/115573354/69234e0e-4ac3-4067-8e1c-5938c49e1b95)
 
 ## Raining Matrix Code
-Hey there, I'm Connor, and today I'll be writing about a simple raining matrix effect I crafted in C++. My Matrix code is equipped with basic operations such as Constants, Seeding Random Number Generator, Boolean Array, Color Array, and Infinite loops.
+Hey there, I'm Connor, and today I'll be writing about a simple raining matrix effect I made in C++. My Matrix code is equipped with basic operations such as Constants, Seeding Random Number Generator, Boolean Array, Color Array, and Infinite loops.
 
 ![image](https://github.com/connorngouana/rix/assets/115573354/a3844d83-ab71-4b35-aeaf-1843491da7e1)
 
 ## Header File
 
-Let's dive into the `RAININGCODE.H` header file, which serves as the interface for my raining matrix effect program. Here's the breakdown:
+The `RAININGCODE.H` header file, which serves as the interface for my raining matrix effect program. Here's the breakdown:
 
 - **`startMatrixRainEffect()`**: This function declaration serves as the entry point for our simulation. It initiates the raining matrix effect when invoked.
 
