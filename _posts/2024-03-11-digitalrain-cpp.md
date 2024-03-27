@@ -41,6 +41,10 @@ This function initiates the matrix rain effect, simulating raindrops falling dow
 **Conclusion:**
 After the animation completes, clear the screen and set a flag (`matrixRainFinished_`) to indicate that the matrix rain effect has finished.
 
+![image](https://github.com/connorngouana/rix/assets/115573354/6689a3c0-0099-41d0-b9e0-1577e06a3a2b)
+
+
+
 ### 2. rainEffect() Function:
 
 ![image](https://github.com/connorngouana/rix/assets/115573354/24197bac-e856-4c2f-a8b9-30c4260cf337)
@@ -62,6 +66,10 @@ Ensure the matrix rain effect has finished before starting the rain effect.
   - Toggle switches randomly for the next line.
 **Animation Control:**
 - Pause execution for a specified duration between frames using `std::this_thread::sleep_for()`.
+  
+![image](https://github.com/connorngouana/rix/assets/115573354/0f7ef2a4-596b-44a3-857b-4e6daabbd360)
+
+
 
 ### Additional Information
 
@@ -69,7 +77,9 @@ Ensure the matrix rain effect has finished before starting the rain effect.
 - **Struct Definition:** I use a struct named `Drop` to represent individual raindrops. It contains members for position, fall distance, and length.
 
 ## Main File
+
 ![image](https://github.com/connorngouana/rix/assets/115573354/6c29bce5-2ceb-415e-a62e-7d182107b125)
+
 In the main file, this program sets up a raining matrix effect simulation by creating a RainingCode object, starting the matrix rain effect in a separate thread, waiting for it to finish, and then initiating another rain effect.
 
 
